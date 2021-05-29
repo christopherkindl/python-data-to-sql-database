@@ -1,4 +1,4 @@
-# Transfer Python Data Into Web Application
+# Transfer Python Data Into PostgreSQL database
 
 ## Installation
 
